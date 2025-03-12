@@ -1,0 +1,17 @@
+{
+  "typescript.tsserver.watchOptions": "vscode",
+  "wallaby.colors": {
+    "covered": "#62b455",
+    "errorPath": "#ffa0a0",
+    "errorSource": "#fe536a",
+    "notCovered": "#cccccc",
+    "partiallyCovered": "#d2a032",
+    "snapshot.covered": "#62b455",
+    "snapshot.errorPath": "#ffa0a0",
+    "snapshot.errorSource": "#fe536a",
+    "snapshot.notCovered": "#cccccc",
+    "snapshot.partiallyCovered": "#d2a032"
+  },
+  "tailwindCSS.experimental.configFile": null,
+  "debug.javascript.resourceRequestOptions": {}
+}
